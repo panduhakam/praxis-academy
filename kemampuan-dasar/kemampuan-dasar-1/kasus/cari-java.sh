@@ -1,5 +1,7 @@
 #!/bin/bash
 #Maaf saya menggunakan vm linux
+#coba diff
+
 
 ext="java"
 
