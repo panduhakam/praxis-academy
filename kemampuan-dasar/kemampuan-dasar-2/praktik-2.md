@@ -23,6 +23,7 @@ _Gambar diatas menandakan berhasilnya menambahkan anggota,statusnya sedang menun
 _team yang baru saja ditambahkan menerima email dari github_
 - lalu tekan tombol view invitation,Maka akan diarahkan ke browser : 
 ![image-4](https://github.com/pndhkm/img-for-praxis/blob/main/col4pndhkm.JPG)
+
 Ada dua pilihan Accept atau decline : 
 - Accept invitation bila ingin bergabung pada repo praxis-academy
 - Decline untuk menolak 
