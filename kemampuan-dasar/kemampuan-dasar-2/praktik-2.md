@@ -5,15 +5,18 @@
   2. Setting
   3. Manage Access
   4. then click invite a collaboration (green button)
+  
 ![image-1](https://github.com/pndhkm/img-for-praxis/blob/main/col1.JPG)
 ### Langkah 2
  - Tampilan selanjutnya seperti gambar dibawah ini :
+ 
 ![image-2](https://github.com/pndhkm/img-for-praxis/blob/main/col2.JPG)
  1. Masukan username git team anda
  2. add $username to this repository
  
 ### Langkah 3 
 - Tampilan selanjutnya seperti gambar dibawah ini :
+
 ![image-3](https://github.com/pndhkm/img-for-praxis/blob/main/col3.JPG)
 _Gambar diatas menandakan berhasilnya menambahkan anggota,statusnya sedang menunggu diterima oleh team yang diundang tadi_
  
